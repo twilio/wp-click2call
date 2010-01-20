@@ -9,4 +9,9 @@ Configuring:
 A newly created menu option is created for Click2Call on the admin menu.  
 Enter your Twilio Account information, caller id, and what number you'd like to be called.
 
+Adding Click2Call button to your blog:
 
+Drop this code snippet below anywhere you want a click2call button:
+<?php wp_c2c(); ?>
+
+Thats it!  
