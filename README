@@ -1,0 +1,12 @@
+Wordpress Click2Call Plugin by Twilio
+
+To install:
+git co http://github.com/twilio/wp-click2call.git /path/to/wordpress/wp-content/plugins/wp-click2call
+Login to wordpress
+Activate the wp-click2call plugin.
+
+Configuring:
+A newly created menu option is created for Click2Call on the admin menu.  
+Enter your Twilio Account information, caller id, and what number you'd like to be called.
+
+
